@@ -3,7 +3,7 @@ Functions on Python:  Write on WAV files Read WAV files Decimate function Interp
 
 Functions on Python:
 
-Write on WAV files
+- Write on WAV files
 Read WAV files
 Decimate function
 Interpolation function
